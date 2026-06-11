@@ -175,7 +175,6 @@ def issue_token(kind: str, raw_id: str, subscribed: bool, ttl_hours: int):
 
 ## Screenshots
 
-> _Save your images as `docs/web.jpg`, `docs/bot.jpg`, `docs/card.jpg` and they'll appear below._
 
 | Web app | Telegram bot | A prophecy |
 |---|---|---|
