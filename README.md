@@ -28,7 +28,7 @@ graph TD
 
     B -->|beer.tell.guru| E["beer-nginx<br/>Vue 3 SPA"]
     B -->|apps.baldcat.dev/beerbot| C["beer-bot<br/>aiogram 3 · webhook"]
-    B -->|apps.baldcat.dev/&#123;beer,auth,billing&#125;| D["beer-api · FastAPI"]
+    B -->|"apps.baldcat.dev<br/>/beer · /auth · /billing"| D["beer-api · FastAPI"]
 
     E -->|Bearer JWT| D
     C -->|X-Internal-Token| D
