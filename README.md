@@ -1,6 +1,6 @@
 # 🍺 Pull My Beer — Gothic Tarot × Craft Beer
 
-> Live: **[beer.tell.guru](https://beer.tell.guru)** · 🤖 **[@pullmybeer_bot](https://t.me/pullmybeer_bot)** · 🐈‍⬛ a [Mnimi&Baldcat](https://baldcat.dev) product
+> Live: **[beer.tell.guru](https://beer.tell.guru)** · 🤖 **[@pullmybeer_bot](https://t.me/pullmybeer_bot)** 
 >
 > Draw a card, receive a darkly humorous **beer prophecy** shaped by your location, the weather, and the time of day.
 
